@@ -2,6 +2,10 @@
 
 🚨 **SpectralRAT** is a powerful and terrifying hacking tool designed to take control of remote systems with a vast array of espionage features. Whether you are testing your network's security or delving into cybersecurity research, this tool offers everything needed to spy, monitor, and exploit! 🚨
 
+Scan result:
+---
+
+![Scan](https://raw.githubusercontent.com/IDA-FREEWARE/SpectralRat/main/Scan.png)
 
 🖼️ Screenshots:
 ---
